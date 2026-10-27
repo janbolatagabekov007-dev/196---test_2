@@ -1,0 +1,106 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 15",
+      "price": 750,
+      "desc": "Apple smartphone with 128GB storage and high-quality camera.",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy A55",
+      "price": 420,
+      "desc": "Modern smartphone with AMOLED display and long battery life.",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "title": "Redmi Note 13",
+      "price": 250,
+      "desc": "Affordable smartphone with a large display and powerful battery.",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "title": "MacBook Air M2",
+      "price": 1100,
+      "desc": "Lightweight laptop suitable for programming, work, and study.",
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "title": "HP Pavilion 15",
+      "price": 680,
+      "desc": "Versatile laptop for everyday tasks, office work, and entertainment.",
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "title": "Apple AirPods Pro 2",
+      "price": 220,
+      "desc": "Wireless earbuds with active noise cancellation and clear sound.",
+      "categoryId": 3
+    },
+    {
+      "id": 7,
+      "title": "Sony WH-1000XM5",
+      "price": 300,
+      "desc": "Premium wireless headphones with excellent noise cancellation.",
+      "categoryId": 3
+    },
+    {
+      "id": 8,
+      "title": "Apple Watch SE",
+      "price": 250,
+      "desc": "Smartwatch with fitness tracking, notifications, and health features.",
+      "categoryId": 4
+    },
+    {
+      "id": 9,
+      "title": "iPad 10th Generation",
+      "price": 400,
+      "desc": "Versatile tablet for studying, watching videos, and everyday use.",
+      "categoryId": 5
+    },
+    {
+      "id": 10,
+      "title": "Logitech MX Master 3S",
+      "price": 100,
+      "desc": "Wireless ergonomic mouse designed for productivity and comfortable use.",
+      "categoryId": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Smartphones",
+      "name": "Smartphones"
+    },
+    {
+      "id": 2,
+      "title": "Laptops",
+      "name": "Laptops"
+    },
+    {
+      "id": 3,
+      "title": "Headphones",
+      "name": "Headphones"
+    },
+    {
+      "id": 4,
+      "title": "Smartwatches",
+      "name": "Smartwatches"
+    },
+    {
+      "id": 5,
+      "title": "Tablets",
+      "name": "Tablets"
+    },
+    {
+      "id": 6,
+      "title": "Accessories",
+      "name": "Accessories"
+    }
+  ]
+}
